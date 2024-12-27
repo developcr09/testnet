@@ -12,11 +12,6 @@
 * 100 GB NVME SSD
 * 3.2 GHz x4 CPU
 
-**Recommended**
-* 16 GB RAM
-* 500 GB NVME SSD
-* 4.2 GHz x6 CPU
-
 ## Operating System
 
 > Linux (x86_64) or Linux (amd64) Reccomended Arch Linux
